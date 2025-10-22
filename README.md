@@ -2,8 +2,5 @@ Whispering Valley is a tiered digital mental wellness platform to help Munich-ba
 
 designed and implemented by： 
 
-  Yuxuan Qian     ---  yuxuan.qian@tum.de
-  Yuan Gao        ---  ge36cid@mytum.de 
-  Chams Hannachi  ---  ge57gic@mytum.de
-  Yuxin Qian      ---  ge65feg@mytum.de
+  Yuxuan Qian; Yuan Gao; Chams Hannachi; Yuxin Qian   
 
